@@ -15,12 +15,12 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/saschakiefer/vscode-custom-footnote-syntax-highliter.git"
+    "url": "git+https://github.com/saschakiefer/vscode-custom-footnote-syntax-highlighter.git"
   },
   "bugs": {
-    "url": "https://github.com/saschakiefer/vscode-custom-footnote-syntax-highliter/issues"
+    "url": "https://github.com/saschakiefer/vscode-custom-footnote-syntax-highlighter/issues"
   },
-  "homepage": "https://github.com/saschakiefer/vscode-custom-footnote-syntax-highliter#readme",
+  "homepage": "https://github.com/saschakiefer/vscode-custom-footnote-syntax-highlighter#readme",
   "engines": {
     "vscode": "^1.8.0"
   },

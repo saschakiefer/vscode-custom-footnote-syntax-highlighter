@@ -1,6 +1,6 @@
 # Custom Markdown Syntax Highlighter
 
-Part of my writing-workflow is a post processing script, that turns a custom inline footnote string with the format `{{fn: }}`into a numbered footnote list, that is also compatible with git.
+Part of my writing-workflow is a post [processing script](https://github.com/saschakiefer/workflow-support), that turns a custom inline footnote string with the format `{{fn: }}`into a numbered footnote list, that is also compatible with git.
 
 This plugin enables syntax highlighter for this string. With the following settings, the inline footnote can be colored a bit less disruptive, so the text is more readable:
 ```json
