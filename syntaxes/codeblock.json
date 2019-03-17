@@ -1,0 +1,13 @@
+{
+	"scopeName": "markdown.footnote.inlineblock",
+	"injectionSelector": "L:text.html.markdown",
+	"patterns": [{
+		"include": "#inline-footnote"
+	}],
+	"repository": {
+		"inline-footnote": {
+			"match": "(?:{{fn:).*(?:}})",
+			"name": "string.quoted.other.footnote"
+		}
+	}
+}
